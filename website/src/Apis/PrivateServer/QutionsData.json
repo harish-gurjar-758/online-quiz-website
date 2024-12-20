@@ -1,0 +1,1444 @@
+[
+    {
+        "optionImage": "https://www.anthonyliu.org/wp-content/uploads/2017/09/HTML5.png",
+        "optionLable": "HTML",
+        "qutions": [
+            {
+                "question": "What does HTML stand for?",
+                "options": [
+                    "Hyper Text Markup Language",
+                    "Home Tool Markup Language",
+                    "Hyperlinks and Text Markup Language",
+                    "Hyper Tool Markup Language"
+                ],
+                "answer": "Hyper Text Markup Language"
+            },
+            {
+                "question": "Who is the primary creator of HTML?",
+                "options": [
+                    "Brendan Eich",
+                    "Tim Berners-Lee",
+                    "Bill Gates",
+                    "James Gosling"
+                ],
+                "answer": "Tim Berners-Lee"
+            },
+            {
+                "question": "Which HTML element is used for the largest heading?",
+                "options": [
+                    "<h6>",
+                    "<h1>",
+                    "<header>",
+                    "<head>"
+                ],
+                "answer": "<h1>"
+            },
+            {
+                "question": "What is the correct HTML element for inserting a line break?",
+                "options": [
+                    "<br>",
+                    "<lb>",
+                    "<break>",
+                    "<hr>"
+                ],
+                "answer": "<br>"
+            },
+            {
+                "question": "Which HTML element is used to define an unordered list?",
+                "options": [
+                    "<ol>",
+                    "<ul>",
+                    "<li>",
+                    "<list>"
+                ],
+                "answer": "<ul>"
+            },
+            {
+                "question": "Which of the following is the correct way to create a hyperlink in HTML?",
+                "options": [
+                    "<a href='url'>Link</a>",
+                    "<link url='url'>Link</link>",
+                    "<hyperlink url='url'>Link</hyperlink>",
+                    "<a>url</a>"
+                ],
+                "answer": "<a href='url'>Link</a>"
+            },
+            {
+                "question": "What is the correct HTML for creating a checkbox?",
+                "options": [
+                    "<input type='checkbox'>",
+                    "<check>",
+                    "<input type='check'>",
+                    "<checkbox>"
+                ],
+                "answer": "<input type='checkbox'>"
+            },
+            {
+                "question": "Which of these elements is used to embed an image in HTML?",
+                "options": [
+                    "<image>",
+                    "<img>",
+                    "<src>",
+                    "<pic>"
+                ],
+                "answer": "<img>"
+            },
+            {
+                "question": "How do you specify an inline CSS style in an HTML element?",
+                "options": [
+                    "style='color: blue;'",
+                    "css='color: blue;'",
+                    "stylesheet='color: blue;'",
+                    "class='color: blue;'"
+                ],
+                "answer": "style='color: blue;'"
+            },
+            {
+                "question": "What is the correct HTML element for creating a numbered list?",
+                "options": [
+                    "<list>",
+                    "<ol>",
+                    "<ul>",
+                    "<numlist>"
+                ],
+                "answer": "<ol>"
+            },
+            {
+                "question": "Which attribute is used to provide a unique identifier for an HTML element?",
+                "options": [
+                    "class",
+                    "id",
+                    "name",
+                    "key"
+                ],
+                "answer": "id"
+            },
+            {
+                "question": "What is the correct way to include a JavaScript file in an HTML document?",
+                "options": [
+                    "<script src='filename.js'></script>",
+                    "<link href='filename.js'>",
+                    "<script href='filename.js'></script>",
+                    "<include src='filename.js'></include>"
+                ],
+                "answer": "<script src='filename.js'></script>"
+            },
+            {
+                "question": "Which HTML attribute is used to define inline styles?",
+                "options": [
+                    "class",
+                    "style",
+                    "font",
+                    "styles"
+                ],
+                "answer": "style"
+            },
+            {
+                "question": "How can you make a numbered list start from a specific number?",
+                "options": [
+                    "start='4'",
+                    "value='4'",
+                    "begin='4'",
+                    "num='4'"
+                ],
+                "answer": "start='4'"
+            },
+            {
+                "question": "Which tag is used to create a table in HTML?",
+                "options": [
+                    "<table>",
+                    "<tab>",
+                    "<tbl>",
+                    "<td>"
+                ],
+                "answer": "<table>"
+            },
+            {
+                "question": "Which HTML element is used to define important text?",
+                "options": [
+                    "<b>",
+                    "<strong>",
+                    "<i>",
+                    "<em>"
+                ],
+                "answer": "<strong>"
+            },
+            {
+                "question": "What is the purpose of the <meta> tag in HTML?",
+                "options": [
+                    "To define metadata for an HTML document",
+                    "To create links between pages",
+                    "To display images",
+                    "To include JavaScript"
+                ],
+                "answer": "To define metadata for an HTML document"
+            },
+            {
+                "question": "Which HTML element is used to specify a footer for a document?",
+                "options": [
+                    "<footer>",
+                    "<foot>",
+                    "<bottom>",
+                    "<end>"
+                ],
+                "answer": "<footer>"
+            },
+            {
+                "question": "Which tag is used to create a dropdown list?",
+                "options": [
+                    "<select>",
+                    "<dropdown>",
+                    "<list>",
+                    "<input>"
+                ],
+                "answer": "<select>"
+            },
+            {
+                "question": "What does the 'alt' attribute in the <img> tag do?",
+                "options": [
+                    "Specifies alternative text for an image if it cannot be displayed",
+                    "Creates a tooltip when the mouse hovers over the image",
+                    "Inserts a link to the image",
+                    "Adds an image description"
+                ],
+                "answer": "Specifies alternative text for an image if it cannot be displayed"
+            }
+        ]
+    },
+    {
+        "optionImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFeHEQ7wGhtg-anNNKnhdqygWBnry25Pw1QA&s",
+        "optionLable": "CSS",
+        "qutions": [
+            {
+                "question": "What does CSS stand for?",
+                "options": [
+                    "Cascading Style Sheets",
+                    "Colorful Style Sheets",
+                    "Computer Style Sheets",
+                    "Creative Style Sheets"
+                ],
+                "answer": "Cascading Style Sheets"
+            },
+            {
+                "question": "Which CSS property is used to change the background color?",
+                "options": [
+                    "color",
+                    "background-color",
+                    "bgcolor",
+                    "background"
+                ],
+                "answer": "background-color"
+            },
+            {
+                "question": "How do you make text bold using CSS?",
+                "options": [
+                    "font-style: bold;",
+                    "font-weight: bold;",
+                    "text-style: bold;",
+                    "text-weight: bold;"
+                ],
+                "answer": "font-weight: bold;"
+            },
+            {
+                "question": "Which property is used to change the text color of an element?",
+                "options": [
+                    "color",
+                    "font-color",
+                    "text-color",
+                    "text-style"
+                ],
+                "answer": "color"
+            },
+            {
+                "question": "How do you center a block element horizontally in CSS?",
+                "options": [
+                    "margin: auto;",
+                    "align: center;",
+                    "text-align: center;",
+                    "float: center;"
+                ],
+                "answer": "margin: auto;"
+            },
+            {
+                "question": "Which property is used to change the font of an element?",
+                "options": [
+                    "font-style",
+                    "font-family",
+                    "font-weight",
+                    "text-font"
+                ],
+                "answer": "font-family"
+            },
+            {
+                "question": "Which property is used to change the size of text?",
+                "options": [
+                    "font-style",
+                    "text-size",
+                    "font-size",
+                    "text-style"
+                ],
+                "answer": "font-size"
+            },
+            {
+                "question": "How do you make each word in a text start with a capital letter in CSS?",
+                "options": [
+                    "text-transform: capitalize;",
+                    "text-transform: uppercase;",
+                    "text-style: capitalize;",
+                    "text-capitalize: true;"
+                ],
+                "answer": "text-transform: capitalize;"
+            },
+            {
+                "question": "Which CSS property controls the spacing between letters?",
+                "options": [
+                    "letter-spacing",
+                    "word-spacing",
+                    "text-spacing",
+                    "font-spacing"
+                ],
+                "answer": "letter-spacing"
+            },
+            {
+                "question": "How do you apply a shadow to an element's text in CSS?",
+                "options": [
+                    "text-shadow",
+                    "font-shadow",
+                    "box-shadow",
+                    "shadow"
+                ],
+                "answer": "text-shadow"
+            },
+            {
+                "question": "Which CSS property is used to control the space between lines of text?",
+                "options": [
+                    "line-height",
+                    "spacing",
+                    "text-height",
+                    "font-spacing"
+                ],
+                "answer": "line-height"
+            },
+            {
+                "question": "How do you select an element with id 'header' in CSS?",
+                "options": [
+                    "#header",
+                    ".header",
+                    "header",
+                    "*header"
+                ],
+                "answer": "#header"
+            },
+            {
+                "question": "How do you select elements with class 'menu' in CSS?",
+                "options": [
+                    "#menu",
+                    ".menu",
+                    "menu",
+                    "*menu"
+                ],
+                "answer": ".menu"
+            },
+            {
+                "question": "Which property is used to create space between the element’s border and content?",
+                "options": [
+                    "padding",
+                    "margin",
+                    "spacing",
+                    "border-spacing"
+                ],
+                "answer": "padding"
+            },
+            {
+                "question": "Which property is used to create space between the element's border and surrounding elements?",
+                "options": [
+                    "margin",
+                    "padding",
+                    "border",
+                    "spacing"
+                ],
+                "answer": "margin"
+            },
+            {
+                "question": "How do you make a list that displays its items with squares instead of bullets?",
+                "options": [
+                    "list-style-type: square;",
+                    "list-style: square;",
+                    "list-type: square;",
+                    "list-shape: square;"
+                ],
+                "answer": "list-style-type: square;"
+            },
+            {
+                "question": "Which property is used to change the background image of an element?",
+                "options": [
+                    "background-image",
+                    "background",
+                    "image-background",
+                    "bg-image"
+                ],
+                "answer": "background-image"
+            },
+            {
+                "question": "How can you make an element disappear from the page but keep its space occupied?",
+                "options": [
+                    "visibility: hidden;",
+                    "display: none;",
+                    "opacity: 0;",
+                    "none of these"
+                ],
+                "answer": "visibility: hidden;"
+            },
+            {
+                "question": "Which CSS property is used to create a responsive design that adjusts to different screen sizes?",
+                "options": [
+                    "media queries",
+                    "responsive-width",
+                    "adaptive-design",
+                    "flexbox"
+                ],
+                "answer": "media queries"
+            },
+            {
+                "question": "What is the correct syntax to set a linear gradient as the background in CSS?",
+                "options": [
+                    "background: linear-gradient(to right, red, blue);",
+                    "background: gradient(linear, red, blue);",
+                    "background: linear-gradient(right, red, blue);",
+                    "background-color: linear-gradient(red to blue);"
+                ],
+                "answer": "background: linear-gradient(to right, red, blue);"
+            }
+        ]
+    },
+    {
+        "optionImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8wBdXML1mqRkAiIwickbBEXBRsV02CgbRcDkSalHMPnkV-kUhblPOEtPZH9_f6JsZHHs&usqp=CAU",
+        "optionLable": "JavaScript",
+        "qutions": [
+            {
+                "question": "What is JavaScript primarily used for?",
+                "options": [
+                    "Styling web pages",
+                    "Structuring web pages",
+                    "Creating dynamic and interactive web content",
+                    "Database management"
+                ],
+                "answer": "Creating dynamic and interactive web content"
+            },
+            {
+                "question": "Which symbol is used for comments in JavaScript?",
+                "options": [
+                    "// for single-line comments",
+                    "/* for single-line comments */",
+                    "<!-- for single-line comments -->",
+                    "' for single-line comments"
+                ],
+                "answer": "// for single-line comments"
+            },
+            {
+                "question": "How do you declare a JavaScript variable?",
+                "options": [
+                    "var myVariable;",
+                    "v myVariable;",
+                    "variable myVariable;",
+                    "let myVariable;"
+                ],
+                "answer": "var myVariable;"
+            },
+            {
+                "question": "Which built-in method combines the elements of an array into a single string?",
+                "options": [
+                    "join()",
+                    "concat()",
+                    "combine()",
+                    "merge()"
+                ],
+                "answer": "join()"
+            },
+            {
+                "question": "How do you write 'Hello World' in an alert box?",
+                "options": [
+                    "alert('Hello World');",
+                    "msg('Hello World');",
+                    "alertBox('Hello World');",
+                    "prompt('Hello World');"
+                ],
+                "answer": "alert('Hello World');"
+            },
+            {
+                "question": "Which company developed JavaScript?",
+                "options": [
+                    "Microsoft",
+                    "Netscape",
+                    "Oracle",
+                    "Google"
+                ],
+                "answer": "Netscape"
+            },
+            {
+                "question": "Which of the following is NOT a JavaScript data type?",
+                "options": [
+                    "Number",
+                    "String",
+                    "Boolean",
+                    "Float"
+                ],
+                "answer": "Float"
+            },
+            {
+                "question": "How do you call a function in JavaScript?",
+                "options": [
+                    "call myFunction();",
+                    "myFunction();",
+                    "call function myFunction();",
+                    "function myFunction();"
+                ],
+                "answer": "myFunction();"
+            },
+            {
+                "question": "How do you check the type of a variable in JavaScript?",
+                "options": [
+                    "typeof variable;",
+                    "type variable;",
+                    "checkType(variable);",
+                    "isType(variable);"
+                ],
+                "answer": "typeof variable;"
+            },
+            {
+                "question": "Which event occurs when a user clicks on an HTML element?",
+                "options": [
+                    "onclick",
+                    "onmouseclick",
+                    "onmouseover",
+                    "onchange"
+                ],
+                "answer": "onclick"
+            },
+            {
+                "question": "How do you add a single-line comment in JavaScript?",
+                "options": [
+                    "'comment'",
+                    "// comment",
+                    "<!-- comment -->",
+                    "/* comment */"
+                ],
+                "answer": "// comment"
+            },
+            {
+                "question": "What is the correct way to write an array in JavaScript?",
+                "options": [
+                    "var colors = ['red', 'green', 'blue'];",
+                    "var colors = (1:'red', 2:'green', 3:'blue');",
+                    "var colors = 'red', 'green', 'blue';",
+                    "var colors = {'red', 'green', 'blue'};"
+                ],
+                "answer": "var colors = ['red', 'green', 'blue'];"
+            },
+            {
+                "question": "How do you round the number 4.7 to the nearest integer in JavaScript?",
+                "options": [
+                    "Math.round(4.7);",
+                    "round(4.7);",
+                    "Math.ceil(4.7);",
+                    "Math.floor(4.7);"
+                ],
+                "answer": "Math.round(4.7);"
+            },
+            {
+                "question": "Which method is used to remove the last element from an array?",
+                "options": [
+                    "pop()",
+                    "remove()",
+                    "shift()",
+                    "delete()"
+                ],
+                "answer": "pop()"
+            },
+            {
+                "question": "Which of the following is correct about JavaScript's 'this' keyword?",
+                "options": [
+                    "It refers to the current object",
+                    "It refers to the previous object",
+                    "It refers to the current function",
+                    "It refers to the global object"
+                ],
+                "answer": "It refers to the current object"
+            },
+            {
+                "question": "How can you convert a string to an integer in JavaScript?",
+                "options": [
+                    "parseInt()",
+                    "convertToInt()",
+                    "int()",
+                    "Number()"
+                ],
+                "answer": "parseInt()"
+            },
+            {
+                "question": "How do you write an IF statement in JavaScript?",
+                "options": [
+                    "if (i == 5)",
+                    "if i == 5 then",
+                    "if i = 5",
+                    "if i equals 5"
+                ],
+                "answer": "if (i == 5)"
+            },
+            {
+                "question": "Which function is used to parse a string to a floating-point number in JavaScript?",
+                "options": [
+                    "parseFloat()",
+                    "parseInt()",
+                    "toFloat()",
+                    "convertFloat()"
+                ],
+                "answer": "parseFloat()"
+            },
+            {
+                "question": "Which operator is used to assign a value to a variable in JavaScript?",
+                "options": [
+                    "=",
+                    "==",
+                    "===",
+                    "<-"
+                ],
+                "answer": "="
+            },
+            {
+                "question": "Which keyword is used to declare a constant in JavaScript?",
+                "options": [
+                    "const",
+                    "let",
+                    "var",
+                    "constant"
+                ],
+                "answer": "const"
+            }
+        ]
+    },
+    {
+        "optionImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlgQCGkRW3JzM2UISMy_nrY7XJre-BVvXHXpHx7gcqVw8ZNLO-OIQ257L8EqJrG05Tzvc&usqp=CAU",
+        "optionLable": "React JS",
+        "qutions": [
+            {
+                "question": "What is React primarily used for?",
+                "options": [
+                    "Building user interfaces",
+                    "Managing databases",
+                    "Styling web pages",
+                    "Server-side rendering"
+                ],
+                "answer": "Building user interfaces"
+            },
+            {
+                "question": "Which of the following is used to create components in React?",
+                "options": [
+                    "JavaScript functions or classes",
+                    "CSS",
+                    "HTML templates",
+                    "SQL queries"
+                ],
+                "answer": "JavaScript functions or classes"
+            },
+            {
+                "question": "What is JSX?",
+                "options": [
+                    "A syntax extension for JavaScript",
+                    "A library for handling HTTP requests",
+                    "A tool for bundling React applications",
+                    "A new type of JavaScript framework"
+                ],
+                "answer": "A syntax extension for JavaScript"
+            },
+            {
+                "question": "What method is used to render React elements into the DOM?",
+                "options": [
+                    "ReactDOM.render()",
+                    "render()",
+                    "React.render()",
+                    "DOM.render()"
+                ],
+                "answer": "ReactDOM.render()"
+            },
+            {
+                "question": "What is a 'state' in React?",
+                "options": [
+                    "A built-in object used to store property values that belong to a component",
+                    "A variable that stores the component's CSS",
+                    "An internal method for lifecycle events",
+                    "A React function used for styling components"
+                ],
+                "answer": "A built-in object used to store property values that belong to a component"
+            },
+            {
+                "question": "Which of the following is the correct way to handle a click event in React?",
+                "options": [
+                    "<button onClick={this.handleClick}>Click Me</button>",
+                    "<button click={this.handleClick}>Click Me</button>",
+                    "<button onClick='handleClick()'>Click Me</button>",
+                    "<button onClick={handleClick()}>Click Me</button>"
+                ],
+                "answer": "<button onClick={this.handleClick}>Click Me</button>"
+            },
+            {
+                "question": "What are 'props' in React?",
+                "options": [
+                    "Inputs to a React component that are passed from a parent component",
+                    "Internal methods used for updating component data",
+                    "Event handlers used in JSX",
+                    "The state of a component"
+                ],
+                "answer": "Inputs to a React component that are passed from a parent component"
+            },
+            {
+                "question": "Which hook is used to add state to a functional component?",
+                "options": [
+                    "useState",
+                    "useEffect",
+                    "useContext",
+                    "useRef"
+                ],
+                "answer": "useState"
+            },
+            {
+                "question": "What does the useEffect hook do?",
+                "options": [
+                    "Performs side effects in function components",
+                    "Manages component state",
+                    "Handles form submissions",
+                    "Creates references to DOM elements"
+                ],
+                "answer": "Performs side effects in function components"
+            },
+            {
+                "question": "How do you pass props to a component?",
+                "options": [
+                    "<MyComponent prop1='value1' prop2='value2' />",
+                    "<MyComponent props={{prop1: 'value1', prop2: 'value2'}} />",
+                    "<MyComponent props='prop1:value1, prop2:value2' />",
+                    "<MyComponent prop1:value1, prop2:value2 />"
+                ],
+                "answer": "<MyComponent prop1='value1' prop2='value2' />"
+            },
+            {
+                "question": "Which statement is true about React keys?",
+                "options": [
+                    "Keys help React identify which items have changed, are added, or are removed",
+                    "Keys are used to store component data in the local storage",
+                    "Keys define the order of rendering components in React",
+                    "Keys are event handlers used in form components"
+                ],
+                "answer": "Keys help React identify which items have changed, are added, or are removed"
+            },
+            {
+                "question": "What is the purpose of a React 'ref'?",
+                "options": [
+                    "To directly access a DOM element or React component",
+                    "To create unique keys for list items",
+                    "To set the CSS styling of a component",
+                    "To define prop types for a component"
+                ],
+                "answer": "To directly access a DOM element or React component"
+            },
+            {
+                "question": "What is React Fragment used for?",
+                "options": [
+                    "To group multiple elements without adding extra nodes to the DOM",
+                    "To add inline styles to a component",
+                    "To render a fallback UI in case of errors",
+                    "To delay rendering components"
+                ],
+                "answer": "To group multiple elements without adding extra nodes to the DOM"
+            },
+            {
+                "question": "Which of the following is true about React components?",
+                "options": [
+                    "They can be either class components or functional components",
+                    "They must always be class-based",
+                    "They do not accept props",
+                    "They can only render a single HTML element"
+                ],
+                "answer": "They can be either class components or functional components"
+            },
+            {
+                "question": "Which lifecycle method is invoked just after a React component is mounted?",
+                "options": [
+                    "componentDidMount",
+                    "componentWillMount",
+                    "componentWillUnmount",
+                    "render"
+                ],
+                "answer": "componentDidMount"
+            },
+            {
+                "question": "How do you conditionally render elements in React?",
+                "options": [
+                    "Using JavaScript's if statements or ternary operators",
+                    "Using the renderIf method",
+                    "Using the condition property in JSX",
+                    "Using React's built-in switch statement"
+                ],
+                "answer": "Using JavaScript's if statements or ternary operators"
+            },
+            {
+                "question": "What is the purpose of React's Context API?",
+                "options": [
+                    "To manage global state and share data between components",
+                    "To directly manipulate the DOM",
+                    "To define types for React components",
+                    "To make API calls within React applications"
+                ],
+                "answer": "To manage global state and share data between components"
+            },
+            {
+                "question": "How do you optimize performance in a React app?",
+                "options": [
+                    "Using React.memo() and useCallback()",
+                    "Using only class components",
+                    "Avoiding the use of JSX",
+                    "Only using inline event handlers"
+                ],
+                "answer": "Using React.memo() and useCallback()"
+            },
+            {
+                "question": "What is the purpose of the 'useReducer' hook in React?",
+                "options": [
+                    "To manage complex state logic in a component",
+                    "To fetch data from an API",
+                    "To handle side effects",
+                    "To directly update the DOM"
+                ],
+                "answer": "To manage complex state logic in a component"
+            },
+            {
+                "question": "What is a Higher Order Component (HOC) in React?",
+                "options": [
+                    "A function that takes a component and returns a new component",
+                    "A built-in React component for managing global state",
+                    "A method to directly manipulate the DOM",
+                    "A feature used to style components"
+                ],
+                "answer": "A function that takes a component and returns a new component"
+            }
+        ]
+    },
+    {
+        "optionImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRuAOcULxc_uZUNhVRJsnqQvw-9id1py_CazPUWY77clbKGB0zuOd15dmQ7ZCCx2p_ioU&usqp=CAU",
+        "optionLable": "Node JS",
+        "qutions": [
+            {
+                "question": "What is Node.js primarily used for?",
+                "options": [
+                    "Building server-side applications",
+                    "Styling web pages",
+                    "Managing databases",
+                    "Handling frontend logic"
+                ],
+                "answer": "Building server-side applications"
+            },
+            {
+                "question": "Which programming language is Node.js built on?",
+                "options": [
+                    "Java",
+                    "Python",
+                    "JavaScript",
+                    "Ruby"
+                ],
+                "answer": "JavaScript"
+            },
+            {
+                "question": "Which of the following is true about Node.js?",
+                "options": [
+                    "It is single-threaded",
+                    "It is multi-threaded",
+                    "It is built only for frontend development",
+                    "It does not support asynchronous programming"
+                ],
+                "answer": "It is single-threaded"
+            },
+            {
+                "question": "Which module is used to create a web server in Node.js?",
+                "options": [
+                    "http",
+                    "fs",
+                    "url",
+                    "path"
+                ],
+                "answer": "http"
+            },
+            {
+                "question": "How do you import a module in Node.js?",
+                "options": [
+                    "require('module')",
+                    "import 'module'",
+                    "load('module')",
+                    "include('module')"
+                ],
+                "answer": "require('module')"
+            },
+            {
+                "question": "Which method is used to read the content of a file in Node.js?",
+                "options": [
+                    "fs.readFile()",
+                    "fs.read()",
+                    "fs.readText()",
+                    "fs.getFile()"
+                ],
+                "answer": "fs.readFile()"
+            },
+            {
+                "question": "Which command is used to initialize a new Node.js project?",
+                "options": [
+                    "npm init",
+                    "node init",
+                    "npm start",
+                    "node new"
+                ],
+                "answer": "npm init"
+            },
+            {
+                "question": "What does 'npm' stand for?",
+                "options": [
+                    "Node Package Manager",
+                    "Network Protocol Manager",
+                    "Node Process Manager",
+                    "Network Package Manager"
+                ],
+                "answer": "Node Package Manager"
+            },
+            {
+                "question": "Which of the following is a core module in Node.js?",
+                "options": [
+                    "fs",
+                    "express",
+                    "mongodb",
+                    "react"
+                ],
+                "answer": "fs"
+            },
+            {
+                "question": "What is the purpose of 'package.json' in a Node.js project?",
+                "options": [
+                    "It stores metadata about the project and its dependencies",
+                    "It contains environment variables",
+                    "It defines routing logic",
+                    "It manages security credentials"
+                ],
+                "answer": "It stores metadata about the project and its dependencies"
+            },
+            {
+                "question": "How do you install a package globally using npm?",
+                "options": [
+                    "npm install -g package_name",
+                    "npm global package_name",
+                    "npm install package_name",
+                    "npm install --global package_name"
+                ],
+                "answer": "npm install -g package_name"
+            },
+            {
+                "question": "Which object in Node.js is used to handle events?",
+                "options": [
+                    "EventEmitter",
+                    "EventHandler",
+                    "EventObject",
+                    "EventLoop"
+                ],
+                "answer": "EventEmitter"
+            },
+            {
+                "question": "Which method in Node.js can be used to listen to events?",
+                "options": [
+                    "on()",
+                    "listen()",
+                    "handle()",
+                    "event()"
+                ],
+                "answer": "on()"
+            },
+            {
+                "question": "Which Node.js module is used to work with file paths?",
+                "options": [
+                    "path",
+                    "fs",
+                    "url",
+                    "http"
+                ],
+                "answer": "path"
+            },
+            {
+                "question": "What is the default scope of a variable in Node.js?",
+                "options": [
+                    "Function scope",
+                    "Global scope",
+                    "Block scope",
+                    "Module scope"
+                ],
+                "answer": "Function scope"
+            },
+            {
+                "question": "Which of the following is NOT a valid npm command?",
+                "options": [
+                    "npm build",
+                    "npm install",
+                    "npm publish",
+                    "npm create"
+                ],
+                "answer": "npm build"
+            },
+            {
+                "question": "What does the 'express' module in Node.js help with?",
+                "options": [
+                    "Building web applications",
+                    "Reading files",
+                    "Working with databases",
+                    "Generating static sites"
+                ],
+                "answer": "Building web applications"
+            },
+            {
+                "question": "What is a callback function in Node.js?",
+                "options": [
+                    "A function that is passed as an argument and executed after another function finishes",
+                    "A function that stops the execution of a script",
+                    "A function that is executed when an event happens",
+                    "A function used for setting up routes in an app"
+                ],
+                "answer": "A function that is passed as an argument and executed after another function finishes"
+            },
+            {
+                "question": "What is the purpose of 'process.exit()' in Node.js?",
+                "options": [
+                    "To terminate the current Node.js process",
+                    "To stop a function",
+                    "To log errors to the console",
+                    "To restart the Node.js application"
+                ],
+                "answer": "To terminate the current Node.js process"
+            },
+            {
+                "question": "What is the event loop in Node.js?",
+                "options": [
+                    "A mechanism that handles asynchronous operations",
+                    "A built-in module for handling events",
+                    "A method for managing routing in Express",
+                    "A way to run synchronous code in parallel"
+                ],
+                "answer": "A mechanism that handles asynchronous operations"
+            }
+        ]
+    },
+    {
+        "optionImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUogQXGzauVsmUB_-yAz0_kLbU1q2XOEJ09Q&s",
+        "optionLable": "Express JS",
+        "qutions": [
+            {
+                "question": "What is Express.js primarily used for?",
+                "options": [
+                    "Building web applications and APIs",
+                    "Managing databases",
+                    "Styling web pages",
+                    "Handling frontend logic"
+                ],
+                "answer": "Building web applications and APIs"
+            },
+            {
+                "question": "Which language is Express.js built on?",
+                "options": [
+                    "JavaScript",
+                    "Python",
+                    "PHP",
+                    "Ruby"
+                ],
+                "answer": "JavaScript"
+            },
+            {
+                "question": "Which of the following is a feature of Express.js?",
+                "options": [
+                    "Middleware support",
+                    "Real-time data streaming",
+                    "Built-in database management",
+                    "Frontend rendering"
+                ],
+                "answer": "Middleware support"
+            },
+            {
+                "question": "How do you create a new Express application?",
+                "options": [
+                    "const app = express();",
+                    "express.createApp();",
+                    "let app = new ExpressApp();",
+                    "app = new express();"
+                ],
+                "answer": "const app = express();"
+            },
+            {
+                "question": "Which method is used to handle GET requests in Express?",
+                "options": [
+                    "app.get()",
+                    "app.send()",
+                    "app.retrieve()",
+                    "app.fetch()"
+                ],
+                "answer": "app.get()"
+            },
+            {
+                "question": "What is middleware in Express.js?",
+                "options": [
+                    "Functions that have access to the request and response objects and the next function",
+                    "A built-in database manager",
+                    "A function for rendering HTML",
+                    "A method to handle static files"
+                ],
+                "answer": "Functions that have access to the request and response objects and the next function"
+            },
+            {
+                "question": "Which of the following is used to define a route in Express?",
+                "options": [
+                    "app.METHOD(PATH, HANDLER)",
+                    "express.route(PATH)",
+                    "app.createRoute(PATH, METHOD)",
+                    "express.handler(METHOD, PATH)"
+                ],
+                "answer": "app.METHOD(PATH, HANDLER)"
+            },
+            {
+                "question": "How do you serve static files in Express.js?",
+                "options": [
+                    "app.use(express.static('public'));",
+                    "app.static('public');",
+                    "app.serveStatic('public');",
+                    "express.static('public');"
+                ],
+                "answer": "app.use(express.static('public'));"
+            },
+            {
+                "question": "Which method is used to listen for incoming requests on a specified port?",
+                "options": [
+                    "app.listen()",
+                    "app.run()",
+                    "app.port()",
+                    "app.start()"
+                ],
+                "answer": "app.listen()"
+            },
+            {
+                "question": "Which of the following is a default HTTP method supported by Express?",
+                "options": [
+                    "GET, POST, PUT, DELETE",
+                    "FETCH, SEND, RECEIVE, POST",
+                    "CREATE, READ, UPDATE, DELETE",
+                    "CONNECT, HEAD, OPTIONS, TRACE"
+                ],
+                "answer": "GET, POST, PUT, DELETE"
+            },
+            {
+                "question": "How do you handle errors in Express?",
+                "options": [
+                    "By using a middleware function with four arguments",
+                    "By wrapping routes in a try-catch block",
+                    "By passing errors to app.sendError()",
+                    "By calling app.errorHandler()"
+                ],
+                "answer": "By using a middleware function with four arguments"
+            },
+            {
+                "question": "Which module can be used to parse incoming request bodies in Express?",
+                "options": [
+                    "body-parser",
+                    "express-parse",
+                    "query-parser",
+                    "data-parser"
+                ],
+                "answer": "body-parser"
+            },
+            {
+                "question": "What does 'next()' do in Express middleware?",
+                "options": [
+                    "Passes control to the next middleware function",
+                    "Stops the server",
+                    "Sends a response",
+                    "Logs the request"
+                ],
+                "answer": "Passes control to the next middleware function"
+            },
+            {
+                "question": "What is 'res.send()' used for in Express?",
+                "options": [
+                    "To send the response to the client",
+                    "To handle POST requests",
+                    "To fetch data from a database",
+                    "To listen to requests on a specific route"
+                ],
+                "answer": "To send the response to the client"
+            },
+            {
+                "question": "How do you handle route parameters in Express?",
+                "options": [
+                    "By using :paramName in the route path",
+                    "By declaring variables inside the route function",
+                    "By passing parameters to app.listen()",
+                    "By using query strings in the URL"
+                ],
+                "answer": "By using :paramName in the route path"
+            },
+            {
+                "question": "Which object contains the request query string in Express?",
+                "options": [
+                    "req.query",
+                    "req.params",
+                    "req.body",
+                    "req.headers"
+                ],
+                "answer": "req.query"
+            },
+            {
+                "question": "What is 'res.json()' used for in Express?",
+                "options": [
+                    "To send a JSON response",
+                    "To handle form data",
+                    "To parse incoming JSON data",
+                    "To log errors to the console"
+                ],
+                "answer": "To send a JSON response"
+            },
+            {
+                "question": "How do you handle 404 errors in Express?",
+                "options": [
+                    "By creating a middleware function that sends a 404 response",
+                    "By using app.notFound()",
+                    "By passing an error object to next()",
+                    "By using the 'catch' block"
+                ],
+                "answer": "By creating a middleware function that sends a 404 response"
+            },
+            {
+                "question": "Which method is used to redirect a request in Express?",
+                "options": [
+                    "res.redirect()",
+                    "res.forward()",
+                    "res.route()",
+                    "res.next()"
+                ],
+                "answer": "res.redirect()"
+            },
+            {
+                "question": "How do you use middleware in Express?",
+                "options": [
+                    "app.use(middlewareFunction)",
+                    "app.middleware(middlewareFunction)",
+                    "app.route(middlewareFunction)",
+                    "app.handle(middlewareFunction)"
+                ],
+                "answer": "app.use(middlewareFunction)"
+            }
+        ]
+    },
+    {
+        "optionImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMhjzm4zZkHd8ptZZZ6Z9eBry-MkkGaaYLHQ&s",
+        "optionLable": "MongoDB",
+        "qutions": [
+            {
+                "question": "What type of database is MongoDB?",
+                "options": [
+                    "NoSQL",
+                    "SQL",
+                    "Graph Database",
+                    "Relational Database"
+                ],
+                "answer": "NoSQL"
+            },
+            {
+                "question": "Which data format does MongoDB use to store documents?",
+                "options": [
+                    "BSON",
+                    "JSON",
+                    "XML",
+                    "CSV"
+                ],
+                "answer": "BSON"
+            },
+            {
+                "question": "What is the equivalent of a table in MongoDB?",
+                "options": [
+                    "Collection",
+                    "Document",
+                    "Row",
+                    "Schema"
+                ],
+                "answer": "Collection"
+            },
+            {
+                "question": "What is the command to show all databases in MongoDB?",
+                "options": [
+                    "show dbs",
+                    "db.showAll()",
+                    "list databases",
+                    "db.getAll()"
+                ],
+                "answer": "show dbs"
+            },
+            {
+                "question": "How do you insert a document into a MongoDB collection?",
+                "options": [
+                    "db.collection.insertOne()",
+                    "db.collection.add()",
+                    "db.collection.create()",
+                    "db.collection.insert()"
+                ],
+                "answer": "db.collection.insertOne()"
+            },
+            {
+                "question": "What is the default port for MongoDB?",
+                "options": [
+                    "27017",
+                    "8080",
+                    "5432",
+                    "3306"
+                ],
+                "answer": "27017"
+            },
+            {
+                "question": "Which of the following is a valid MongoDB data type?",
+                "options": [
+                    "ObjectId",
+                    "UUID",
+                    "int8",
+                    "StringSet"
+                ],
+                "answer": "ObjectId"
+            },
+            {
+                "question": "What command is used to delete a document from a MongoDB collection?",
+                "options": [
+                    "db.collection.deleteOne()",
+                    "db.collection.remove()",
+                    "db.collection.delete()",
+                    "db.collection.drop()"
+                ],
+                "answer": "db.collection.deleteOne()"
+            },
+            {
+                "question": "How do you query all documents in a MongoDB collection?",
+                "options": [
+                    "db.collection.find()",
+                    "db.collection.getAll()",
+                    "db.collection.findAll()",
+                    "db.collection.query()"
+                ],
+                "answer": "db.collection.find()"
+            },
+            {
+                "question": "What does the 'replica set' in MongoDB refer to?",
+                "options": [
+                    "A group of MongoDB servers that maintain the same data",
+                    "A collection of documents",
+                    "A schema for a set of collections",
+                    "A method for scaling write operations"
+                ],
+                "answer": "A group of MongoDB servers that maintain the same data"
+            },
+            {
+                "question": "How do you create an index in MongoDB?",
+                "options": [
+                    "db.collection.createIndex()",
+                    "db.collection.addIndex()",
+                    "db.collection.newIndex()",
+                    "db.collection.index()"
+                ],
+                "answer": "db.collection.createIndex()"
+            },
+            {
+                "question": "What is sharding in MongoDB?",
+                "options": [
+                    "Distributing data across multiple servers",
+                    "Backing up data from the primary server",
+                    "Creating secondary indexes",
+                    "Encrypting documents in a collection"
+                ],
+                "answer": "Distributing data across multiple servers"
+            },
+            {
+                "question": "What does 'db.dropDatabase()' do in MongoDB?",
+                "options": [
+                    "Deletes the current database",
+                    "Deletes all collections in a database",
+                    "Drops a single collection",
+                    "Removes documents in a collection"
+                ],
+                "answer": "Deletes the current database"
+            },
+            {
+                "question": "Which of the following is NOT a feature of MongoDB?",
+                "options": [
+                    "Strict schema enforcement",
+                    "Horizontal scaling",
+                    "Support for embedded documents",
+                    "Flexible schema design"
+                ],
+                "answer": "Strict schema enforcement"
+            },
+            {
+                "question": "How do you update a document in MongoDB?",
+                "options": [
+                    "db.collection.updateOne()",
+                    "db.collection.modify()",
+                    "db.collection.replace()",
+                    "db.collection.set()"
+                ],
+                "answer": "db.collection.updateOne()"
+            },
+            {
+                "question": "What is the purpose of the 'aggregation' framework in MongoDB?",
+                "options": [
+                    "To perform data processing and transformation operations",
+                    "To create database backups",
+                    "To query individual documents",
+                    "To manage indexes in a collection"
+                ],
+                "answer": "To perform data processing and transformation operations"
+            },
+            {
+                "question": "Which method is used to count documents in a MongoDB collection?",
+                "options": [
+                    "db.collection.countDocuments()",
+                    "db.collection.countAll()",
+                    "db.collection.getDocumentCount()",
+                    "db.collection.totalCount()"
+                ],
+                "answer": "db.collection.countDocuments()"
+            },
+            {
+                "question": "What is the primary use case for MongoDB's GridFS?",
+                "options": [
+                    "Storing large files and binary data",
+                    "Storing schema definitions",
+                    "Creating backups",
+                    "Scaling reads"
+                ],
+                "answer": "Storing large files and binary data"
+            },
+            {
+                "question": "Which of the following commands is used to create a new database in MongoDB?",
+                "options": [
+                    "use dbname",
+                    "create dbname",
+                    "db.createDatabase(dbname)",
+                    "new database dbname"
+                ],
+                "answer": "use dbname"
+            },
+            {
+                "question": "What does the 'findOne()' method do in MongoDB?",
+                "options": [
+                    "Returns the first document that matches a query",
+                    "Deletes a single document",
+                    "Returns all documents that match a query",
+                    "Creates a new document"
+                ],
+                "answer": "Returns the first document that matches a query"
+            }
+        ]
+    }
+]
